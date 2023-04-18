@@ -25,10 +25,10 @@ public class Atelier2Application implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         //Ajouter
-        patientRepository.save(new Patient(null,"rana",new Date(),false,50));
-        patientRepository.save(new Patient(null,"rana1",new Date(),false,70));
-        patientRepository.save(new Patient(null,"rana2",new Date(),false,   40));
-        patientRepository.save(new Patient(null,"test",new Date(),false,10));
+        patientRepository.save(new Patient(null,"Oumaima",new Date(),false,45));
+        patientRepository.save(new Patient(null,"Ikram",new Date(),false,34));
+        patientRepository.save(new Patient(null,"Sohaib",new Date(),false,   23));
+        patientRepository.save(new Patient(null,"Ayman",new Date(),false,78));
 
         //afficher
         System.out.println("affichage des patients 3");
