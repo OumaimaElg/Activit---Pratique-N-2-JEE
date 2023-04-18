@@ -1,4 +1,4 @@
-# Activite-Pratique-N-2-JEE
+# Activité-Pratique-N-2-JEE
 
 ## Dans cet atelier nous avons:
 
